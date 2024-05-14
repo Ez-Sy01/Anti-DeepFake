@@ -20,7 +20,7 @@ ___
 > 1. LFW : ([link](https://vis-www.cs.umass.edu/lfw/))
 > 2. VGGFace2 : ([link](https://paperswithcode.com/dataset/vggface2-1))
 > 3. UMDFaces : ([link](https://paperswithcode.com/dataset/umdfaces))
-> 4. PaSc : ([link](https://paperswithcode.com/dataset/pascal-face))
+> 4. PASCAL Face : ([link](https://paperswithcode.com/dataset/pascal-face))
 ___ 
 ## Anti-DeepFake Techniques
 > 1. https://paperswithcode.com/task/deepfake-detection
