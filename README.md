@@ -16,7 +16,6 @@ ___
 > 3. MobileFaceSwap: A Lightweight Framework for Video Face Swapping (AAAI 2022) [(paper)](https://arxiv.org/abs/2201.03808) / [(code)](https://github.com/Seanseattle/MobileFaceSwap)
 > 4. Few-Shot Head Swapping in the Wild (CVPR 2022) [(paper)](https://arxiv.org/abs/2204.13100) / [(code)](https://github.com/jmliu88/HeSer)
 > 5. High-resolution Face Swapping via Latent Semantics Disentanglement (CVPR 2022) [(paper)](https://arxiv.org/abs/2203.15958) / [(code)](https://github.com/cnnlstm/FSLSD_HiRes)
-___
 ## Available deepfake datasets
 > 1. LFW : [(link)](https://vis-www.cs.umass.edu/lfw/)
 > 2. VGGFace2 : [(link)](https://paperswithcode.com/dataset/vggface2-1)
