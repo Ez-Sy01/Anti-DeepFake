@@ -16,4 +16,13 @@ Anti-DeepFake Analysis
 5. High-resolution Face Swapping via Latent Semantics Disentanglement (CVPR 2022) [paper] https://arxiv.org/abs/2203.15958 [code] https://github.com/cnnlstm/FSLSD_HiRes
 
 ## Anti-DeepFake Techniques
-1. https://paperswithcode.com/task/deepfake-detection
+1. 딥페이크 변조 영상 : https://paperswithcode.com/task/deepfake-detection
+
+## Available deepfake datasets
+
+### Korean
+1. https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55
+
+### Other
+1. FaceForensic++ : https://paperswithcode.com/sota/face-swapping-on-faceforensics
+2. DFDC(Deepfake Detection Challenge) : https://paperswithcode.com/dataset/dfdc
