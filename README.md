@@ -9,7 +9,7 @@ Anti-DeepFake Analysis[(ref)](https://wikidocs.net/192158)
   + 3D-Aware Face Swapping - https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.pdf
 ### Deepfake technology containing code
 #### 2023
-1. Fine-Grained Face Swapping via Regional GAN Inversion (CVPR 2023) [(paper)](https://arxiv.org/abs/2211.14068) / [(code)](https://github.com/e4s2022/e4s)
+> 1. Fine-Grained Face Swapping via Regional GAN Inversion (CVPR 2023) [(paper)](https://arxiv.org/abs/2211.14068) / [(code)](https://github.com/e4s2022/e4s)
 #### 2022
 1. StyleSwap: Style-Based Generator Empowers Robust Face Swapping (ECCV 2022) [(paper)](https://arxiv.org/abs/2209.13514) / [(code)](https://github.com/Seanseattle/StyleSwap)
 2. Region-Aware Face Swapping (CVPR 2022) [(paper)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Region-Aware_Face_Swapping_CVPR_2022_paper.pdf) / [(code)](https://github.com/xc-csc101/RAFSwap)
