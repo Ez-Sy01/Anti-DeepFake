@@ -29,7 +29,7 @@ Anti-DeepFake Analysis[(ref)](https://wikidocs.net/192158)
 ## Available Anti-deepfake datasets
 
 ### Korea
-1. 딥페이크 변조 영상 : [link](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55)
+1. Deepfake altered video : [link](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55)
 
 ### Other
 1. FaceForensic++ : [(link)](https://paperswithcode.com/sota/face-swapping-on-faceforensics)
