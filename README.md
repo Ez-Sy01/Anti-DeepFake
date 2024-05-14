@@ -15,15 +15,18 @@ Anti-DeepFake Analysis
 4. Few-Shot Head Swapping in the Wild (CVPR 2022) [paper] https://arxiv.org/abs/2204.13100 [code] https://github.com/jmliu88/HeSer
 5. High-resolution Face Swapping via Latent Semantics Disentanglement (CVPR 2022) [paper] https://arxiv.org/abs/2203.15958 [code] https://github.com/cnnlstm/FSLSD_HiRes
 
+## Available deepfake datasets
+1. LFW : [link](https://vis-www.cs.umass.edu/lfw/)
+
 ## Anti-DeepFake Techniques
 1. https://paperswithcode.com/task/deepfake-detection
 
 ## Available Anti-deepfake datasets
 
 ### Korean
-1. 딥페이크 변조 영상 : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55
+1. 딥페이크 변조 영상 : [link](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55)
 
 ### Other
-1. FaceForensic++ : https://paperswithcode.com/sota/face-swapping-on-faceforensics
-2. DFDC(Deepfake Detection Challenge) : https://paperswithcode.com/dataset/dfdc
-3. FakeAVCeleb : https://paperswithcode.com/dataset/fakeavceleb
+1. FaceForensic++ : [link](https://paperswithcode.com/sota/face-swapping-on-faceforensics)
+2. DFDC(Deepfake Detection Challenge) : [link](https://paperswithcode.com/dataset/dfdc)
+3. FakeAVCeleb : [link](https://paperswithcode.com/dataset/fakeavceleb)
