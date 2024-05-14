@@ -18,7 +18,7 @@ Anti-DeepFake Analysis
 ## Anti-DeepFake Techniques
 1. https://paperswithcode.com/task/deepfake-detection
 
-## Available deepfake datasets
+## Available Anti-deepfake datasets
 
 ### Korean
 1. 딥페이크 변조 영상 : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55
