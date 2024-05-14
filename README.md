@@ -1,6 +1,7 @@
 # Anti-DeepFake
-Anti-DeepFake Analysis([(ref)](https://wikidocs.net/192158)
+Anti-DeepFake Analysis[(ref)](https://wikidocs.net/192158)
 
+ * Artifact detection and removal technology occurring in SR model based on GAN : DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models[(link)](https://arxiv.org/pdf/2307.02457)
 
 ## DeepFake Techniques
 1. https://github.com/DaddyJin/awesome-faceSwap
