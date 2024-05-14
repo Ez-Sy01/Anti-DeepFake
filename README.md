@@ -18,7 +18,7 @@ Anti-DeepFake Analysis
 ## Available deepfake datasets
 1. LFW : [(link)](https://vis-www.cs.umass.edu/lfw/)
 2. VGGFace2 : [(link)](https://paperswithcode.com/dataset/vggface2-1)
-3. UMDFaces : [(link)[(https://paperswithcode.com/dataset/umdfaces)
+3. UMDFaces : [(link)](https://paperswithcode.com/dataset/umdfaces)
 4. PaSc : [(link)](https://paperswithcode.com/dataset/pascal-face)
    
 ## Anti-DeepFake Techniques
