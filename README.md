@@ -2,7 +2,7 @@
 Anti-DeepFake Analysis[(ref)](https://wikidocs.net/192158)
 
  * Artifact detection and removal technology occurring in SR(Super-Resolution) model based on GAN : DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models[(link)](https://arxiv.org/pdf/2307.02457)
-
+___
 ## DeepFake Techniques
 > 1. https://github.com/DaddyJin/awesome-faceSwap
 > 2. https://paperswithcode.com/task/face-swapping
@@ -16,13 +16,13 @@ Anti-DeepFake Analysis[(ref)](https://wikidocs.net/192158)
 > 3. MobileFaceSwap: A Lightweight Framework for Video Face Swapping (AAAI 2022) [(paper)](https://arxiv.org/abs/2201.03808) / [(code)](https://github.com/Seanseattle/MobileFaceSwap)
 > 4. Few-Shot Head Swapping in the Wild (CVPR 2022) [(paper)](https://arxiv.org/abs/2204.13100) / [(code)](https://github.com/jmliu88/HeSer)
 > 5. High-resolution Face Swapping via Latent Semantics Disentanglement (CVPR 2022) [(paper)](https://arxiv.org/abs/2203.15958) / [(code)](https://github.com/cnnlstm/FSLSD_HiRes)
-
+___
 ## Available deepfake datasets
 > 1. LFW : [(link)](https://vis-www.cs.umass.edu/lfw/)
 > 2. VGGFace2 : [(link)](https://paperswithcode.com/dataset/vggface2-1)
 > 3. UMDFaces : [(link)](https://paperswithcode.com/dataset/umdfaces)
 > 4. PaSc : [(link)](https://paperswithcode.com/dataset/pascal-face)
-   
+___ 
 ## Anti-DeepFake Techniques
 > 1. https://paperswithcode.com/task/deepfake-detection
 
@@ -35,3 +35,4 @@ Anti-DeepFake Analysis[(ref)](https://wikidocs.net/192158)
 > 1. FaceForensic++ : [(link)](https://paperswithcode.com/sota/face-swapping-on-faceforensics)
 > 2. DFDC(Deepfake Detection Challenge) : [(link)](https://paperswithcode.com/dataset/dfdc)
 > 3. FakeAVCeleb : [(link)](https://paperswithcode.com/dataset/fakeavceleb)
+___
