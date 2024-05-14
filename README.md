@@ -26,7 +26,7 @@ Anti-DeepFake Analysis
 
 ## Available Anti-deepfake datasets
 
-### Korean
+### Korea
 1. 딥페이크 변조 영상 : [link](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=55)
 
 ### Other
