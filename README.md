@@ -1,5 +1,5 @@
 # Anti-DeepFake
-Anti-DeepFake Analysis([ref](https://wikidocs.net/192158))
+Anti-DeepFake Analysis([ref](https://wikidocs.net/192158), [ref2](https://velog.io/@hanlyang0522/On-the-detection-of-synthetic-images-generated-by-diffusion-model))
 
  * Artifact detection and removal technology occurring in SR(Super-Resolution) model based on GAN : DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models([link](https://arxiv.org/pdf/2307.02457))
 ___
